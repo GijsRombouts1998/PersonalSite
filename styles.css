@@ -1,6 +1,12 @@
+/*
 Styling colors:
 Peach Glow = FFB997
 Cerulean = 006E90
 Jungle Green = 5DA271
 Vintage Berry 80475E
 Pale Sky = B9D6F2
+*/
+
+body {
+    background-color: B9D6F2;
+}
